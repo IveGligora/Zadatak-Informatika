@@ -42,7 +42,7 @@
 </header>
 
 <main>
-    <p>Ovo je jednostavan primjer HTML stranice. HTML (HyperText Markup Language) je standardni jezik za izradu web stranica.</p>
+    <p>Dj kromi danas ima nastup u učionici broj 7.</p>
     <img src="https://via.placeholder.com/800x400" alt="Primjer slike">
     <p>Više informacija o HTML-u možete pronaći na <a href="https://www.w3schools.com/html/" target="_blank">W3Schools</a> web stranici.</p>
 </main>
